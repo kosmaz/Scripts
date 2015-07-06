@@ -2,4 +2,3 @@
 powershellserver /startservice
 cd 'C:\program files (x86)\freeSSHd'
 freesshdservice
-pause
